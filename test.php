@@ -1,4 +1,4 @@
 <?php
-echo "testing";
+echo "This is new testing";
 
-echo "new branch test";
+echo "this is testing branch test";
